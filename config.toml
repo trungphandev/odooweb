@@ -49,11 +49,11 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "Giải pháp Odoo ERP"
-      url = "giai-phap-odoo-erp"
+      url = "blogs"
 
     [[params.navigation.links]]
       name = "Điểm bán hàng (POS)"
-      url = "giai-phap-odoo-erp/pos"
+      url = "blogs/pos"
 
    # [[params.navigation.links]]
    #   name = "Elements"
