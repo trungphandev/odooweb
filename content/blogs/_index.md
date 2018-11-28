@@ -1,9 +1,5 @@
 ---
-title: "Giải pháp phần mềm quản lý Odoo"
-slug: "giai-phap-odoo-erp"
-image: pic02.jpg
-date: 2017-10-31T22:27:21-05:00
-draft: false
+title: Giải pháp phần mềm quản lý Odoo
+date: 2017-11-01T03:27:21.000Z
 ---
-
-Giải pháp phần mềm Odoo
+Giải pháp phần mềm Odoo d
