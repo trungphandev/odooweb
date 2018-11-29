@@ -95,7 +95,7 @@ disqusShortname = ""
       title = "Điểm bán hàng (POS)"
       subtitle = "Ipsum Dolor Sit Amet"
       image = "pic01.jpg"
-      url = "blogs/aliquam"
+      url = "blogs/blog4"
 
     [[params.tiles.showcase]]
       title = "Quản lý khách hàng (CRM)"
